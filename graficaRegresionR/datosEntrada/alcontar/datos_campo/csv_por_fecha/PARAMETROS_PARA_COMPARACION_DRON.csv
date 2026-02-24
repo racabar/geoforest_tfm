@@ -1,0 +1,449 @@
+ID_QUADRAT,FECHA_MUESTREOS,TIPO_VEG,TRAT_QUEMA,TRAT_PASTO,COB_TOTAL,REC_VEG,REC_VEG_VERDE,COB_TOTAL_VERDE
+1,2022-06-09,Lastonar,Quemado,Pastoreo,20,23.35,23.35,20
+1,2022-11-15,Lastonar,Quemado,Pastoreo,30,37.39,23.64,18.96
+1,2023-05-16,Lastonar,Quemado,Pastoreo,3,3.52,2.7,2.3
+1,2023-06-06,Lastonar,Quemado,Pastoreo,1,1.11,1.01,0.9
+1,2023-11-15,Lastonar,Quemado,Pastoreo,7,7.21,7.1,6.89
+1,2024-06-06,Lastonar,Quemado,Pastoreo,23,22.66,19.41,19.7
+1,2024-11-12,Lastonar,Quemado,Pastoreo,12,11.97,8.34,8.36
+1,2025-05-19,Lastonar,Quemado,Pastoreo,40,69.24,65.24,37.68
+2,2022-06-09,Lastonar,Quemado,Pastoreo,20,20.39,20.39,20
+2,2022-11-15,Lastonar,Quemado,Pastoreo,20,19.72,19.44,19.71
+2,2023-05-16,Lastonar,Quemado,Pastoreo,1,0.54,0.54,1
+2,2023-06-06,Lastonar,Quemado,Pastoreo,1,1.26,1.1,0.87
+2,2023-11-15,Lastonar,Quemado,Pastoreo,6,6.37,6.37,6
+2,2024-06-06,Lastonar,Quemado,Pastoreo,17,17.42,16.92,16.51
+2,2024-11-12,Lastonar,Quemado,Pastoreo,7,6.65,5.47,5.75
+2,2025-05-19,Lastonar,Quemado,Pastoreo,30,49.78,49.14,29.61
+3,2022-06-09,Lastonar,Quemado,Excluido,35,40.11,40.11,35
+3,2022-11-15,Lastonar,Quemado,Excluido,25,33.69,29.32,21.75
+3,2023-05-16,Lastonar,Quemado,Excluido,7,7.25,5.79,5.59
+3,2023-06-06,Lastonar,Quemado,Excluido,17,16.64,16.64,17
+3,2023-11-15,Lastonar,Quemado,Excluido,13,13.29,12.77,12.49
+3,2024-06-06,Lastonar,Quemado,Excluido,30,32.01,24.49,22.95
+3,2024-11-12,Lastonar,Quemado,Excluido,16,16.44,12.03,11.7
+3,2025-05-19,Lastonar,Quemado,Excluido,50,58.18,51.09,43.9
+4,2022-06-09,Lastonar,Quemado,Excluido,30,33.87,33.87,30
+4,2022-11-15,Lastonar,Quemado,Excluido,30,29.58,20.89,21.18
+4,2023-05-16,Lastonar,Quemado,Excluido,9,8.58,1.95,2.04
+4,2023-06-06,Lastonar,Quemado,Excluido,5,4.99,4.55,4.55
+4,2023-11-15,Lastonar,Quemado,Excluido,20,21.13,16.02,15.16
+4,2024-06-06,Lastonar,Quemado,Excluido,27,26.58,14.1,14.32
+4,2024-11-12,Lastonar,Quemado,Excluido,20,20.1,14.29,14.21
+4,2025-05-19,Lastonar,Quemado,Excluido,40,58.32,55.19,37.85
+5,2022-06-09,Lastonar,Quemado,Pastoreo,90,94.32,47.56,45.38
+5,2022-11-15,Lastonar,Quemado,Pastoreo,89,88.74,45.43,45.56
+5,2023-05-16,Lastonar,Quemado,Pastoreo,2,1.95,1.34,1.37
+5,2023-06-06,Lastonar,Quemado,Pastoreo,2,2.15,1.61,1.49
+5,2023-11-15,Lastonar,Quemado,Pastoreo,10,9.99,9.99,10
+5,2024-06-06,Lastonar,Quemado,Pastoreo,18,26.13,20.27,13.96
+5,2024-11-12,Lastonar,Quemado,Pastoreo,21,21.1,15.57,15.49
+5,2025-05-19,Lastonar,Quemado,Pastoreo,35,44.46,41.9,32.98
+6,2022-06-09,Lastonar,Quemado,Pastoreo,45,47.61,34.7,32.79
+6,2022-11-15,Lastonar,Quemado,Pastoreo,46,45.43,40.7,41.21
+6,2023-05-16,Lastonar,Quemado,Pastoreo,8,7.98,2.25,2.25
+6,2023-06-06,Lastonar,Quemado,Pastoreo,4,4.25,3.35,3.15
+6,2023-11-15,Lastonar,Quemado,Pastoreo,7,7.98,7.57,6.64
+6,2024-06-06,Lastonar,Quemado,Pastoreo,16,15.9,12.61,12.68
+6,2024-11-12,Lastonar,Quemado,Pastoreo,20,20.39,17.73,17.39
+6,2025-05-19,Lastonar,Quemado,Pastoreo,45,86.04,82.73,43.26
+7,2022-06-09,Lastonar,Quemado,Excluido,40,55.05,53.97,39.21
+7,2022-11-15,Lastonar,Quemado,Excluido,35,35.43,34.73,34.3
+7,2023-05-16,Lastonar,Quemado,Excluido,6,5.44,4.97,5.48
+7,2023-06-06,Lastonar,Quemado,Excluido,5,5.27,5.27,5
+7,2023-11-15,Lastonar,Quemado,Excluido,14,14.39,13.57,13.2
+7,2024-06-06,Lastonar,Quemado,Excluido,30,30.59,26.6,26.08
+7,2024-11-12,Lastonar,Quemado,Excluido,16,16.28,11.91,11.7
+7,2025-05-19,Lastonar,Quemado,Excluido,70,88.12,87.71,69.67
+8,2022-06-09,Lastonar,Quemado,Excluido,55,54.86,46.08,46.19
+8,2022-11-15,Lastonar,Quemado,Excluido,62,61.6,49.01,49.32
+8,2023-05-16,Lastonar,Quemado,Excluido,2,2.23,0.52,0.46
+8,2023-06-06,Lastonar,Quemado,Excluido,2,1.62,1.62,2
+8,2023-11-15,Lastonar,Quemado,Excluido,10,10.31,10.09,9.78
+8,2024-06-06,Lastonar,Quemado,Excluido,12,11.62,9.59,9.9
+8,2024-11-12,Lastonar,Quemado,Excluido,14,13.72,12.25,12.5
+8,2025-05-19,Lastonar,Quemado,Excluido,35,57.09,54.59,33.46
+9,2022-06-09,Aulagar,Quemado,Excluido,30,34.03,26.5,23.36
+9,2022-11-15,Aulagar,Quemado,Excluido,30,60.14,48.39,24.13
+9,2023-05-16,Aulagar,Quemado,Excluido,8,7.46,7.46,8
+9,2023-06-06,Aulagar,Quemado,Excluido,8,7.48,7.48,8
+9,2023-11-15,Aulagar,Quemado,Excluido,22,22.13,21.4,21.27
+9,2024-06-06,Aulagar,Quemado,Excluido,25,43.12,35.01,20.29
+9,2024-11-12,Aulagar,Quemado,Excluido,21,20.9,10.92,10.97
+9,2025-05-19,Aulagar,Quemado,Excluido,60,110.54,107.99,58.61
+10,2022-06-09,Aulagar,Quemado,Excluido,55,57.17,50.03,48.13
+10,2022-11-15,Aulagar,Quemado,Excluido,49,48.73,41.51,41.73
+10,2023-05-16,Aulagar,Quemado,Excluido,7,10.2,4.14,2.84
+10,2023-06-06,Aulagar,Quemado,Excluido,7,10.07,9.01,6.26
+10,2023-11-15,Aulagar,Quemado,Excluido,25,25.93,22.31,21.5
+10,2024-06-06,Aulagar,Quemado,Excluido,20,26.29,20.15,15.32
+10,2024-11-12,Aulagar,Quemado,Excluido,20,24.94,22.03,17.66
+10,2025-05-19,Aulagar,Quemado,Excluido,55,85.05,82.4,53.28
+11,2022-06-09,Aulagar,Quemado,Pastoreo,75,75.11,53.42,53.34
+11,2022-11-15,Aulagar,Quemado,Pastoreo,60,59.52,36.22,36.51
+11,2023-05-16,Aulagar,Quemado,Pastoreo,2,1.74,1.41,1.62
+11,2023-06-06,Aulagar,Quemado,Pastoreo,1,1.35,1.35,1
+11,2023-11-15,Aulagar,Quemado,Pastoreo,8,8.93,8.93,8
+11,2024-06-06,Aulagar,Quemado,Pastoreo,23,22.65,22.65,23
+11,2024-11-12,Aulagar,Quemado,Pastoreo,12,17.29,13.96,9.68
+11,2025-05-19,Aulagar,Quemado,Pastoreo,42,42.3,42.19,41.89
+12,2022-06-09,Aulagar,Quemado,Pastoreo,50,54.79,52.5,47.91
+12,2022-11-15,Aulagar,Quemado,Pastoreo,40,40.01,33.26,33.25
+12,2023-05-16,Aulagar,Quemado,Pastoreo,1,1.54,1.34,0.87
+12,2023-06-06,Aulagar,Quemado,Pastoreo,1,0.69,0.69,1
+12,2023-11-15,Aulagar,Quemado,Pastoreo,4,4.59,4.59,4
+12,2024-06-06,Aulagar,Quemado,Pastoreo,10,12.37,12.17,9.83
+12,2024-11-12,Aulagar,Quemado,Pastoreo,7,8.47,5.76,4.76
+12,2025-05-19,Aulagar,Quemado,Pastoreo,20,38.17,38.08,19.95
+13,2022-06-09,Aulagar,Quemado,Excluido,90,99.69,99.69,90
+13,2022-11-15,Aulagar,Quemado,Excluido,98,100.04,58.81,57.61
+13,2023-05-16,Aulagar,Quemado,Excluido,2,2.89,2.13,1.47
+13,2023-06-06,Aulagar,Quemado,Excluido,6,6.18,5.33,5.17
+13,2023-11-15,Aulagar,Quemado,Excluido,16,16.6,16.6,16
+13,2024-06-06,Aulagar,Quemado,Excluido,29,28.9,24.85,24.93
+13,2024-11-12,Aulagar,Quemado,Excluido,32,33.82,31.15,29.47
+13,2025-05-19,Aulagar,Quemado,Excluido,50,62.38,62.38,50
+14,2022-06-09,Aulagar,Quemado,Excluido,30,30.36,30.36,30
+14,2022-11-15,Aulagar,Quemado,Excluido,30,35.98,29.02,24.19
+14,2023-05-16,Aulagar,Quemado,Excluido,2,1.75,1.75,2
+14,2023-06-06,Aulagar,Quemado,Excluido,4,4.08,4.08,4
+14,2023-11-15,Aulagar,Quemado,Excluido,11,10.91,10.81,10.89
+14,2024-06-06,Aulagar,Quemado,Excluido,14,14.09,10.67,10.6
+14,2024-11-12,Aulagar,Quemado,Excluido,12,15.94,15.08,11.35
+14,2025-05-19,Aulagar,Quemado,Excluido,30,44.2,42.52,28.85
+15,2022-06-09,Aulagar,Quemado,Pastoreo,69,68.7,33.7,33.84
+15,2022-11-15,Aulagar,Quemado,Pastoreo,69,68.79,37.09,37.2
+15,2023-05-16,Aulagar,Quemado,Pastoreo,2,1.97,1.28,1.29
+15,2023-06-06,Aulagar,Quemado,Pastoreo,1,1.38,1.04,0.75
+15,2023-11-15,Aulagar,Quemado,Pastoreo,5,5.57,5.57,5
+15,2024-06-06,Aulagar,Quemado,Pastoreo,7,15.39,14.62,6.64
+15,2024-11-12,Aulagar,Quemado,Pastoreo,7,15.23,11.75,5.4
+15,2025-05-19,Aulagar,Quemado,Pastoreo,20,31.06,27.87,17.94
+16,2022-06-09,Aulagar,Quemado,Pastoreo,50,52,52,50
+16,2022-11-15,Aulagar,Quemado,Pastoreo,47,46.53,43.38,43.81
+16,2023-05-16,Aulagar,Quemado,Pastoreo,10,16.79,2.35,1.39
+16,2023-06-06,Aulagar,Quemado,Pastoreo,6,6.02,2.62,2.61
+16,2023-11-15,Aulagar,Quemado,Pastoreo,15,14.5,6.52,6.74
+16,2024-06-06,Aulagar,Quemado,Pastoreo,20,22.98,10.21,8.88
+16,2024-11-12,Aulagar,Quemado,Pastoreo,13,18.98,10.12,6.93
+16,2025-05-19,Aulagar,Quemado,Pastoreo,30,41.81,34.34,24.64
+17,2022-06-09,Espartal,Quemado,Excluido,50,49.41,19.41,19.64
+17,2022-11-15,Espartal,Quemado,Excluido,62,61.67,48.88,49.14
+17,2023-05-16,Espartal,Quemado,Excluido,5,5.9,5.9,5
+17,2023-06-06,Espartal,Quemado,Excluido,8,10.9,10.9,8
+17,2023-11-15,Espartal,Quemado,Excluido,20,26.19,25.64,19.57
+17,2024-06-06,Espartal,Quemado,Excluido,20,23.04,18.9,16.4
+17,2024-11-12,Espartal,Quemado,Excluido,22,46.58,39.26,18.54
+17,2025-05-19,Espartal,Quemado,Excluido,45,99.69,99.35,44.84
+18,2022-06-09,Espartal,Quemado,Excluido,75,76.01,6.01,5.93
+18,2022-11-15,Espartal,Quemado,Excluido,84,83.31,70.36,70.94
+18,2023-05-16,Espartal,Quemado,Excluido,5,4.91,4.91,5
+18,2023-06-06,Espartal,Quemado,Excluido,8,9.97,9.97,8
+18,2023-11-15,Espartal,Quemado,Excluido,37,43.79,43.79,37
+18,2024-06-06,Espartal,Quemado,Excluido,46,45.7,39.5,39.75
+18,2024-11-12,Espartal,Quemado,Excluido,40,58.86,55.26,37.55
+18,2025-05-19,Espartal,Quemado,Excluido,70,92.78,90.64,68.38
+19,2022-06-09,Espartal,Quemado,Pastoreo,66,67.03,57.03,56.15
+19,2022-11-15,Espartal,Quemado,Pastoreo,68,67.68,48.83,49.06
+19,2023-05-16,Espartal,Quemado,Pastoreo,3,3.45,3.45,3
+19,2023-06-06,Espartal,Quemado,Pastoreo,2,2.91,2.91,2
+19,2023-11-15,Espartal,Quemado,Pastoreo,15,16.32,16.32,15
+19,2024-06-06,Espartal,Quemado,Pastoreo,21,20.4,17.55,18.06
+19,2024-11-12,Espartal,Quemado,Pastoreo,21,21.15,19.17,19.03
+19,2025-05-19,Espartal,Quemado,Pastoreo,35,50.83,47.19,32.49
+20,2022-06-09,Espartal,Quemado,Pastoreo,52,57.31,47.31,42.92
+20,2022-11-15,Espartal,Quemado,Pastoreo,62,63.27,58.91,57.72
+20,2023-05-16,Espartal,Quemado,Pastoreo,1,0.7,0.7,1
+20,2023-06-06,Espartal,Quemado,Pastoreo,1,0.51,0.51,1
+20,2023-11-15,Espartal,Quemado,Pastoreo,9,8.86,8.86,9
+20,2024-06-06,Espartal,Quemado,Pastoreo,14,14.34,13.84,13.51
+20,2024-11-12,Espartal,Quemado,Pastoreo,23,23.14,19.5,19.38
+20,2025-05-19,Espartal,Quemado,Pastoreo,35,76.46,74.34,34.02
+21,2022-06-09,Espartal,Quemado,Excluido,86,85.74,24.74,24.81
+21,2022-11-15,Espartal,Quemado,Excluido,75,76.05,35.86,35.36
+21,2023-05-16,Espartal,Quemado,Excluido,1,1.04,1.04,1
+21,2023-06-06,Espartal,Quemado,Excluido,6,5.4,5.4,6
+21,2023-11-15,Espartal,Quemado,Excluido,18,17.73,11.84,12.02
+21,2024-06-06,Espartal,Quemado,Excluido,15,15.52,11.86,11.46
+21,2024-11-12,Espartal,Quemado,Excluido,17,15.93,15.25,16.27
+21,2025-05-19,Espartal,Quemado,Excluido,35,73.08,69.97,33.51
+22,2022-06-09,Espartal,Quemado,Pastoreo,44,44.28,44.28,44
+22,2022-11-15,Espartal,Quemado,Pastoreo,55,59.61,44.26,40.83
+22,2023-05-16,Espartal,Quemado,Pastoreo,1,0.44,0.44,1
+22,2023-06-06,Espartal,Quemado,Pastoreo,1,0.5,0.5,1
+22,2023-11-15,Espartal,Quemado,Pastoreo,4,4.68,4.68,4
+22,2024-06-06,Espartal,Quemado,Pastoreo,20,20.69,18.68,18.05
+22,2024-11-12,Espartal,Quemado,Pastoreo,20,26.18,19.46,14.86
+22,2025-05-19,Espartal,Quemado,Pastoreo,17,21.91,20.21,15.68
+23,2022-06-09,Espartal,Quemado,Pastoreo,17,24.55,21.05,14.57
+23,2022-11-15,Espartal,Quemado,Pastoreo,40,46.13,45.21,39.2
+23,2023-05-16,Espartal,Quemado,Pastoreo,0,0.4,0.4,0
+23,2023-06-06,Espartal,Quemado,Pastoreo,0,0.2,0.2,0
+23,2023-11-15,Espartal,Quemado,Pastoreo,4,4.7,4.7,4
+23,2024-06-06,Espartal,Quemado,Pastoreo,5,5.59,4.98,4.45
+23,2024-11-12,Espartal,Quemado,Pastoreo,8,10.9,9.93,7.28
+23,2025-05-19,Espartal,Quemado,Pastoreo,48,57.36,49.46,41.38
+24,2022-06-09,Espartal,Quemado,Excluido,50,48.53,33.53,34.54
+24,2022-11-15,Espartal,Quemado,Excluido,73,72.83,53.17,53.29
+24,2023-05-16,Espartal,Quemado,Excluido,4,4.44,4.44,4
+24,2023-06-06,Espartal,Quemado,Excluido,7,7.91,7.91,7
+24,2023-11-15,Espartal,Quemado,Excluido,15,15.14,14.84,14.7
+24,2024-06-06,Espartal,Quemado,Excluido,30,56.13,34.38,18.37
+24,2024-11-12,Espartal,Quemado,Excluido,30,32.7,29.86,27.39
+24,2025-05-19,Espartal,Quemado,Excluido,55,69.96,65.54,51.52
+25,2022-06-09,Espartal,Quemado,Excluido,59,63.22,63.22,59
+25,2022-11-15,Espartal,Quemado,Excluido,50,48.57,35.26,36.29
+25,2023-05-16,Espartal,Quemado,Excluido,2,1.8,1.8,2
+25,2023-06-06,Espartal,Quemado,Excluido,2,2.23,2.23,2
+25,2023-11-15,Espartal,Quemado,Excluido,8,8.37,7.58,7.24
+25,2024-06-06,Espartal,Quemado,Excluido,10,21.22,10.99,5.17
+25,2024-11-12,Espartal,Quemado,Excluido,15,16.09,12.37,11.53
+25,2025-05-19,Espartal,Quemado,Excluido,35,43.95,36.02,28.68
+26,2022-06-09,Espartal,Quemado,Pastoreo,37,37.24,27.24,27.06
+26,2022-11-15,Espartal,Quemado,Pastoreo,66,67.69,38.05,37.1
+26,2023-05-16,Espartal,Quemado,Pastoreo,1,0.42,0.42,1
+26,2023-06-06,Espartal,Quemado,Pastoreo,1,0.26,0.26,1
+26,2023-11-15,Espartal,Quemado,Pastoreo,7,7.98,7.64,6.7
+26,2024-06-06,Espartal,Quemado,Pastoreo,5,26.47,21.16,3.99
+26,2024-11-12,Espartal,Quemado,Pastoreo,20,22.26,18.63,16.73
+26,2025-05-19,Espartal,Quemado,Pastoreo,40,48.01,43.23,36.01
+27,2022-06-09,Espartal,Quemado,Pastoreo,58,60.52,20.52,19.66
+27,2022-11-15,Espartal,Quemado,Pastoreo,60,59.98,25.68,25.68
+27,2023-05-16,Espartal,Quemado,Pastoreo,0,0.38,0.38,0
+27,2023-06-06,Espartal,Quemado,Pastoreo,1,0.55,0.55,1
+27,2023-11-15,Espartal,Quemado,Pastoreo,4,4.79,4.79,4
+27,2024-06-06,Espartal,Quemado,Pastoreo,3,15.43,10.07,1.95
+27,2024-11-12,Espartal,Quemado,Pastoreo,4,8.09,6.41,3.16
+27,2025-05-19,Espartal,Quemado,Pastoreo,25,31.32,29.96,23.91
+28,2022-06-09,Aulagar,No quemado,Pastoreo,65,69,69,65
+28,2022-11-15,Aulagar,No quemado,Pastoreo,70,68.31,43.63,44.7
+28,2023-05-16,Aulagar,No quemado,Pastoreo,75,89.72,59.17,49.46
+28,2023-11-15,Aulagar,No quemado,Pastoreo,65,70.46,47.92,44.2
+28,2024-06-06,Aulagar,No quemado,Pastoreo,75,86.33,67.11,58.3
+28,2024-11-12,Aulagar,No quemado,Pastoreo,65,64.43,25.06,25.28
+28,2025-05-19,Aulagar,No quemado,Pastoreo,77,77.3,54.69,54.47
+29,2022-06-09,Aulagar,No quemado,Pastoreo,35,41.25,41.25,35
+29,2022-11-15,Aulagar,No quemado,Pastoreo,15,19.63,19.59,14.96
+29,2023-05-16,Aulagar,No quemado,Pastoreo,13,12.87,11.42,11.53
+29,2023-11-15,Aulagar,No quemado,Pastoreo,32,32.44,32.4,31.96
+29,2024-06-06,Aulagar,No quemado,Pastoreo,30,47.66,26.48,16.66
+29,2024-11-12,Aulagar,No quemado,Pastoreo,30,37.03,22.42,18.16
+29,2025-05-19,Aulagar,No quemado,Pastoreo,45,65.31,64.04,44.12
+30,2022-06-09,Espartal,No quemado,Pastoreo,35,37.21,31.21,29.35
+30,2022-11-15,Espartal,No quemado,Pastoreo,45,46.7,16.22,15.62
+30,2023-05-16,Espartal,No quemado,Pastoreo,36,35.95,35.45,35.49
+30,2023-11-15,Espartal,No quemado,Pastoreo,42,42.16,18.37,18.3
+30,2024-06-06,Espartal,No quemado,Pastoreo,55,54.15,26.06,26.46
+30,2024-11-12,Espartal,No quemado,Pastoreo,47,47.34,10.67,10.59
+30,2025-05-19,Espartal,No quemado,Pastoreo,45,56.18,34.59,27.7
+31,2022-06-09,Espartal,No quemado,Pastoreo,24,24.09,24.09,24
+31,2022-11-15,Espartal,No quemado,Pastoreo,30,32.39,11.28,10.44
+31,2023-05-16,Espartal,No quemado,Pastoreo,20,19.39,11.29,11.64
+31,2023-11-15,Espartal,No quemado,Pastoreo,30,29.87,18.77,18.85
+31,2024-06-06,Espartal,No quemado,Pastoreo,40,44.33,20.85,18.81
+31,2024-11-12,Espartal,No quemado,Pastoreo,42,42.41,13.58,13.44
+31,2025-05-19,Espartal,No quemado,Pastoreo,45,49.13,36.82,33.72
+32,2022-06-09,Lastonar,No quemado,Pastoreo,56,56.83,36.79,36.25
+32,2022-11-15,Lastonar,No quemado,Pastoreo,30,33.54,17.7,15.83
+32,2023-05-16,Lastonar,No quemado,Pastoreo,31,30.93,24.28,24.33
+32,2023-11-15,Lastonar,No quemado,Pastoreo,30,31.35,27.8,26.6
+32,2024-06-06,Lastonar,No quemado,Pastoreo,28,28.68,6.89,6.72
+32,2024-11-12,Lastonar,No quemado,Pastoreo,35,36.82,16.22,15.41
+32,2025-05-19,Lastonar,No quemado,Pastoreo,50,74.05,55.29,37.33
+33,2022-06-09,Lastonar,No quemado,Pastoreo,45,45.02,39.62,39.6
+33,2022-11-15,Lastonar,No quemado,Pastoreo,25,25.12,18.17,18.08
+33,2023-05-16,Lastonar,No quemado,Pastoreo,12,11.9,11.58,11.67
+33,2023-11-15,Lastonar,No quemado,Pastoreo,20,19.36,17.41,17.98
+33,2024-06-06,Lastonar,No quemado,Pastoreo,30,33.7,14.66,13.05
+33,2024-11-12,Lastonar,No quemado,Pastoreo,28,28.1,15.15,15.09
+33,2025-05-19,Lastonar,No quemado,Pastoreo,52,52.53,35.7,35.33
+34,2022-06-09,Espartal,No quemado,Pastoreo,85,84.86,67.27,67.38
+34,2022-11-15,Espartal,No quemado,Pastoreo,88,87.03,76.15,76.99
+34,2023-05-16,Espartal,No quemado,Pastoreo,70,69.62,57.04,57.35
+34,2023-11-15,Espartal,No quemado,Pastoreo,87,87.79,69.35,68.72
+34,2024-06-06,Espartal,No quemado,Pastoreo,85,109,57.91,45.15
+34,2024-11-12,Espartal,No quemado,Pastoreo,95,94.45,41.57,41.81
+34,2025-05-19,Espartal,No quemado,Pastoreo,95,97.73,74.5,72.41
+35,2022-06-09,Espartal,No quemado,Pastoreo,63,64.62,54.12,52.76
+35,2022-11-15,Espartal,No quemado,Pastoreo,72,71.15,52.82,53.45
+35,2023-05-16,Espartal,No quemado,Pastoreo,50,48.26,29.78,30.85
+35,2023-11-15,Espartal,No quemado,Pastoreo,60,76.3,54.03,42.48
+35,2024-06-06,Espartal,No quemado,Pastoreo,32,32.08,23.86,23.8
+35,2024-11-12,Espartal,No quemado,Pastoreo,60,70.47,40.15,34.18
+35,2025-05-19,Espartal,No quemado,Pastoreo,70,68.64,55.6,56.7
+36,2022-06-09,Lastonar,No quemado,Pastoreo,80,78.59,78.59,80
+36,2022-11-15,Lastonar,No quemado,Pastoreo,85,90.27,88.22,83.06
+36,2023-05-16,Lastonar,No quemado,Pastoreo,60,58.71,57.77,59.03
+36,2023-11-15,Lastonar,No quemado,Pastoreo,64,64.08,59.72,59.64
+36,2024-06-06,Lastonar,No quemado,Pastoreo,70,116.93,76.37,45.71
+36,2024-11-12,Lastonar,No quemado,Pastoreo,61,61.18,38.61,38.49
+36,2025-05-19,Lastonar,No quemado,Pastoreo,65,77.13,60.88,51.3
+37,2022-06-09,Lastonar,No quemado,Pastoreo,50,59.89,57.58,48.07
+37,2022-11-15,Lastonar,No quemado,Pastoreo,35,40.27,27.71,24.08
+37,2023-05-16,Lastonar,No quemado,Pastoreo,25,25.19,16.43,16.3
+37,2023-11-15,Lastonar,No quemado,Pastoreo,20,24.75,20.7,16.72
+37,2024-06-06,Lastonar,No quemado,Pastoreo,20,64.56,24.72,7.65
+37,2024-11-12,Lastonar,No quemado,Pastoreo,25,29.13,14.55,12.48
+37,2025-05-19,Lastonar,No quemado,Pastoreo,35,42.37,31.53,26.04
+38,2022-06-09,Lastonar,No quemado,Pastoreo,80,93.61,75.01,64.1
+38,2022-11-15,Lastonar,No quemado,Pastoreo,40,39.18,21.19,21.63
+38,2023-05-16,Lastonar,No quemado,Pastoreo,48,47.64,38.35,38.63
+38,2023-11-15,Lastonar,No quemado,Pastoreo,40,39.3,18.93,19.26
+38,2024-06-06,Lastonar,No quemado,Pastoreo,50,51.81,35.52,34.27
+38,2024-11-12,Lastonar,No quemado,Pastoreo,35,38.99,25.17,22.59
+38,2025-05-19,Lastonar,No quemado,Pastoreo,45,51.19,41.66,36.62
+39,2022-06-09,Lastonar,No quemado,Pastoreo,35,53.57,49.37,32.25
+39,2022-11-15,Lastonar,No quemado,Pastoreo,20,25.87,23.76,18.36
+39,2023-05-16,Lastonar,No quemado,Pastoreo,21,21.3,19,18.73
+39,2023-11-15,Lastonar,No quemado,Pastoreo,21,20.98,15.71,15.72
+39,2024-06-06,Lastonar,No quemado,Pastoreo,25,28.83,14.21,12.32
+39,2024-11-12,Lastonar,No quemado,Pastoreo,25,24.46,10.36,10.58
+39,2025-05-19,Lastonar,No quemado,Pastoreo,35,59.38,44.16,26.02
+40,2022-06-09,Aulagar,No quemado,Pastoreo,85,108.83,98.75,77.12
+40,2022-11-15,Aulagar,No quemado,Pastoreo,80,80.87,76.69,75.86
+40,2023-05-16,Aulagar,No quemado,Pastoreo,75,79.06,67.22,63.76
+40,2023-11-15,Aulagar,No quemado,Pastoreo,75,73.39,50.44,51.54
+40,2024-06-06,Aulagar,No quemado,Pastoreo,70,75.76,31.31,28.92
+40,2024-11-12,Aulagar,No quemado,Pastoreo,55,34.76,18.84,29.81
+40,2025-05-19,Aulagar,No quemado,Pastoreo,90,137.26,126.65,83.04
+41,2022-06-09,Aulagar,No quemado,Pastoreo,75,75.62,48.22,47.82
+41,2022-11-15,Aulagar,No quemado,Pastoreo,35,35.78,10.17,9.94
+41,2023-05-16,Aulagar,No quemado,Pastoreo,29,28.73,10.14,10.23
+41,2023-11-15,Aulagar,No quemado,Pastoreo,40,54.39,24.75,18.2
+41,2024-06-06,Aulagar,No quemado,Pastoreo,15,41.34,16.35,5.93
+41,2024-11-12,Aulagar,No quemado,Pastoreo,20,28.51,11.2,7.85
+41,2025-05-19,Aulagar,No quemado,Pastoreo,50,117.26,65.72,28.02
+42,2022-06-09,Aulagar,No quemado,Pastoreo,80,115.19,98.31,68.27
+42,2022-11-15,Aulagar,No quemado,Pastoreo,70,68.45,49.15,50.26
+42,2023-05-16,Aulagar,No quemado,Pastoreo,37,54.74,39.39,26.62
+42,2023-11-15,Aulagar,No quemado,Pastoreo,55,53.36,35.84,36.94
+42,2024-06-06,Aulagar,No quemado,Pastoreo,70,76.51,52.44,47.97
+42,2024-11-12,Aulagar,No quemado,Pastoreo,50,59.76,37.99,31.78
+42,2025-05-19,Aulagar,No quemado,Pastoreo,57,57.06,34.19,34.15
+43,2022-06-09,Aulagar,No quemado,Pastoreo,60,60.35,49.15,48.86
+43,2022-11-15,Aulagar,No quemado,Pastoreo,30,33.59,31.25,27.91
+43,2023-05-16,Aulagar,No quemado,Pastoreo,20,25.7,23.95,18.63
+43,2023-11-15,Aulagar,No quemado,Pastoreo,25,28.43,17.22,15.14
+43,2024-06-06,Aulagar,No quemado,Pastoreo,35,49.92,27.37,19.18
+43,2024-11-12,Aulagar,No quemado,Pastoreo,23,23.24,15.15,14.99
+43,2025-05-19,Aulagar,No quemado,Pastoreo,55,69.35,60.06,47.63
+44,2022-06-09,Espartal,No quemado,Pastoreo,75,78.52,78.52,75
+44,2022-11-15,Espartal,No quemado,Pastoreo,80,80.98,35.9,35.46
+44,2023-05-16,Espartal,No quemado,Pastoreo,64,64.14,64.14,64
+44,2023-11-15,Espartal,No quemado,Pastoreo,96,95.1,60.94,61.51
+44,2024-06-06,Espartal,No quemado,Pastoreo,88,88.18,48.07,47.97
+44,2024-11-12,Espartal,No quemado,Pastoreo,85,85.77,64.05,63.47
+44,2025-05-19,Espartal,No quemado,Pastoreo,86,86.2,74.52,74.34
+45,2022-06-09,Espartal,No quemado,Pastoreo,55,56.45,45.89,44.71
+45,2022-11-15,Espartal,No quemado,Pastoreo,45,44.99,28.39,28.39
+45,2023-05-16,Espartal,No quemado,Pastoreo,60,61.28,44.48,43.55
+45,2023-11-15,Espartal,No quemado,Pastoreo,50,66.22,55.93,42.23
+45,2024-06-06,Espartal,No quemado,Pastoreo,64,64.31,38,37.81
+45,2024-11-12,Espartal,No quemado,Pastoreo,49,48.53,39.86,40.24
+45,2025-05-19,Espartal,No quemado,Pastoreo,68,67.79,52.69,52.85
+46,2022-06-09,Espartal,Quemado,Excluido,40,41.59,41.59,40
+46,2022-11-15,Espartal,Quemado,Excluido,40,42.77,32.16,30.07
+46,2023-05-16,Espartal,Quemado,Excluido,2,2.44,2.44,2
+46,2023-06-06,Espartal,Quemado,Excluido,3,3.19,3.19,3
+46,2023-11-15,Espartal,Quemado,Excluido,12,12.17,10.27,10.12
+46,2024-06-06,Espartal,Quemado,Excluido,7,8.39,6.54,5.45
+46,2024-11-12,Espartal,Quemado,Excluido,6,7.65,6.91,5.41
+46,2025-05-19,Espartal,Quemado,Excluido,20,63.36,61.17,19.3
+47,2022-06-09,Aulagar,Quemado,Pastoreo,58,58.34,54.34,54.02
+47,2022-11-15,Aulagar,Quemado,Pastoreo,50,79.6,59.13,37.14
+47,2023-05-16,Aulagar,Quemado,Pastoreo,1,0.92,0.92,1
+47,2023-06-06,Aulagar,Quemado,Pastoreo,1,0.95,0.95,1
+47,2023-11-15,Aulagar,Quemado,Pastoreo,7,7.38,7.38,7
+47,2024-06-06,Aulagar,Quemado,Pastoreo,12,12.91,12.91,12
+47,2024-11-12,Aulagar,Quemado,Pastoreo,10,27.83,25.47,9.15
+47,2025-05-19,Aulagar,Quemado,Pastoreo,40,43.31,42.7,39.43
+48,2022-06-09,Aulagar,Quemado,Pastoreo,54,57.2,55.7,52.58
+48,2022-11-15,Aulagar,Quemado,Pastoreo,50,88.49,79.31,44.81
+48,2023-05-16,Aulagar,Quemado,Pastoreo,1,3.54,1.8,0.5
+48,2023-06-06,Aulagar,Quemado,Pastoreo,1,1.63,1.63,1
+48,2023-11-15,Aulagar,Quemado,Pastoreo,8,8.47,8.17,7.71
+48,2024-06-06,Aulagar,Quemado,Pastoreo,10,9.57,9.37,9.79
+48,2024-11-12,Aulagar,Quemado,Pastoreo,12,24.98,20.97,10.07
+48,2025-05-19,Aulagar,Quemado,Pastoreo,40,74.01,72.77,39.32
+49,2022-06-09,Aulagar,Quemado,Excluido,25,27.64,27.64,25
+49,2022-11-15,Aulagar,Quemado,Excluido,40,42.58,36.23,34.03
+49,2023-05-16,Aulagar,Quemado,Excluido,6,6.69,3.98,3.56
+49,2023-06-06,Aulagar,Quemado,Excluido,6,5.85,5.15,5.28
+49,2023-11-15,Aulagar,Quemado,Excluido,20,20.28,14.61,14.4
+49,2024-06-06,Aulagar,Quemado,Excluido,25,24.88,18.37,18.45
+49,2024-11-12,Aulagar,Quemado,Excluido,25,54.14,36.01,16.62
+49,2025-05-19,Aulagar,Quemado,Excluido,55,54.7,54.16,54.45
+50,2022-06-09,Aulagar,Quemado,Excluido,38,37.4,23.56,23.93
+50,2022-11-15,Aulagar,Quemado,Excluido,55,66.09,41.82,34.8
+50,2023-05-16,Aulagar,Quemado,Excluido,1,3.34,3.34,1
+50,2023-06-06,Aulagar,Quemado,Excluido,3,4.32,4.32,3
+50,2023-11-15,Aulagar,Quemado,Excluido,14,14,12.43,12.43
+50,2024-06-06,Aulagar,Quemado,Excluido,15,15.43,12.18,11.84
+50,2024-11-12,Aulagar,Quemado,Excluido,15,51.1,41.05,12.04
+50,2025-05-19,Aulagar,Quemado,Excluido,30,29.85,26.54,26.67
+51,2022-06-09,Lastonar,Quemado,Excluido,55,55.36,55.36,55
+51,2022-11-15,Lastonar,Quemado,Excluido,60,59.46,54.58,55.07
+51,2023-05-16,Lastonar,Quemado,Excluido,2,1.55,1.55,2
+51,2023-06-06,Lastonar,Quemado,Excluido,2,2.05,2.05,2
+51,2023-11-15,Lastonar,Quemado,Excluido,4,4.72,3.77,3.19
+51,2024-06-06,Lastonar,Quemado,Excluido,15,16.9,15.03,13.34
+51,2024-11-12,Lastonar,Quemado,Excluido,12,31.72,15.73,5.95
+51,2025-05-19,Lastonar,Quemado,Excluido,25,30.11,26.67,22.14
+52,2022-06-09,Lastonar,Quemado,Excluido,27,27.56,27.56,27
+52,2022-11-15,Lastonar,Quemado,Excluido,25,24.16,23.66,24.48
+52,2023-05-16,Lastonar,Quemado,Excluido,3,5.05,4.12,2.44
+52,2023-06-06,Lastonar,Quemado,Excluido,6,8.15,8.15,6
+52,2023-11-15,Lastonar,Quemado,Excluido,7,6.77,6.06,6.26
+52,2024-06-06,Lastonar,Quemado,Excluido,18,17.93,16.27,16.33
+52,2024-11-12,Lastonar,Quemado,Excluido,25,54.19,40.58,18.72
+52,2025-05-19,Lastonar,Quemado,Excluido,40,53.45,48.74,36.47
+53,2022-06-09,Lastonar,Quemado,Pastoreo,38,37.59,37.59,38
+53,2022-11-15,Lastonar,Quemado,Pastoreo,33,33.34,30.5,30.18
+53,2023-05-16,Lastonar,Quemado,Pastoreo,1,2.51,1.6,0.63
+53,2023-06-06,Lastonar,Quemado,Pastoreo,1,2.5,2.5,1
+53,2023-11-15,Lastonar,Quemado,Pastoreo,4,8.65,8.65,4
+53,2024-06-06,Lastonar,Quemado,Pastoreo,10,12.39,10.48,8.45
+53,2024-11-12,Lastonar,Quemado,Pastoreo,12,18.83,12.44,7.92
+53,2025-05-19,Lastonar,Quemado,Pastoreo,35,42.16,40.67,33.76
+54,2022-06-09,Lastonar,Quemado,Pastoreo,50,51.32,51.32,50
+54,2022-11-15,Lastonar,Quemado,Pastoreo,60,67.28,61.41,54.76
+54,2023-05-16,Lastonar,Quemado,Pastoreo,42,42.49,28.21,27.88
+54,2023-06-06,Lastonar,Quemado,Pastoreo,30,31.8,18.52,17.47
+54,2023-11-15,Lastonar,Quemado,Pastoreo,24,24.4,14.17,13.93
+54,2024-06-06,Lastonar,Quemado,Pastoreo,30,37.89,24.54,19.42
+54,2024-11-12,Lastonar,Quemado,Pastoreo,35,48.03,30.06,21.9
+54,2025-05-19,Lastonar,Quemado,Pastoreo,34,67.2,57.6,29.14
+55,2022-06-09,Espartal,Biomasa,Pastoreo,90,94.61,60.11,57.18
+55,2022-11-15,Espartal,Biomasa,Pastoreo,4,3.65,3.65,4
+56,2022-06-09,Espartal,Biomasa,Pastoreo,90,90.15,72.85,72.72
+56,2022-11-15,Espartal,Biomasa,Pastoreo,6,5.83,5.83,6
+57,2022-06-09,Aulagar,Biomasa,Pastoreo,60,62.48,56.02,53.79
+57,2022-11-15,Aulagar,Biomasa,Pastoreo,2,2.81,2.81,2
+58,2022-06-09,Aulagar,Biomasa,Pastoreo,80,79.35,78.31,78.95
+58,2022-11-15,Aulagar,Biomasa,Pastoreo,1,2.32,2.32,1
+59,2022-06-09,Aulagar,Biomasa,Pastoreo,75,81.14,76.72,70.91
+59,2022-11-15,Aulagar,Biomasa,Pastoreo,3,4.96,4.96,3
+60,2022-06-09,Aulagar,Biomasa,Pastoreo,60,59.72,30.82,30.96
+60,2022-11-15,Aulagar,Biomasa,Pastoreo,1,0.41,0.26,0.63
+61,2022-06-09,Espartal,Biomasa,Pastoreo,50,54.22,43.89,40.47
+61,2022-11-15,Espartal,Biomasa,Pastoreo,1,0.31,0.31,1
+62,2022-06-09,Espartal,Biomasa,Pastoreo,25,26.85,26.81,24.96
+62,2022-11-15,Espartal,Biomasa,Pastoreo,1,0.41,0.41,1
+63,2022-06-09,Lastonar,Biomasa,Pastoreo,50,54.53,36.28,33.26
+63,2022-11-15,Lastonar,Biomasa,Pastoreo,2,1.67,1.67,2
+64,2022-06-09,Lastonar,Biomasa,Pastoreo,12,17.43,17.43,12
+64,2022-11-15,Lastonar,Biomasa,Pastoreo,1,2.11,2.11,1
+65,2022-06-09,Lastonar,Biomasa,Pastoreo,42,41.46,39.68,40.19
+65,2022-11-15,Lastonar,Biomasa,Pastoreo,1,1.93,1.93,1
+66,2022-06-09,Lastonar,Biomasa,Pastoreo,85,86.61,86.61,85
+66,2022-11-15,Lastonar,Biomasa,Pastoreo,1,2.27,2.27,1
+67,2022-11-15,Aulagar,Biomasa,Pastoreo,72,71.95,17.95,17.96
+68,2022-11-15,Aulagar,Biomasa,Pastoreo,25,28.8,24.34,21.12
+69,2022-11-15,Espartal,Biomasa,Pastoreo,98,99.68,99.68,98
+70,2022-11-15,Espartal,Biomasa,Pastoreo,43,43.79,43.55,42.76
+71,2022-11-15,Lastonar,Biomasa,Pastoreo,60,51.33,37.86,44.25
+72,2022-11-15,Lastonar,Biomasa,Pastoreo,50,51.76,51.76,50
+73,2022-11-15, ,Biomasa,Pastoreo,97,117.33,77.58,64.13
+74,2022-11-15, ,Biomasa,Pastoreo,67,67.03,41.32,41.3
+75,2022-11-15, ,Biomasa,Pastoreo,62,61.47,33.75,34.04
+76,2022-11-15, ,Biomasa,Pastoreo,20,28.65,27.07,18.89

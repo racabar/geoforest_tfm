@@ -1,0 +1,55 @@
+ID_QUADRAT,FECHA_MUESTREOS,TIPO_VEG,TRAT_QUEMA,TRAT_PASTO,COB_TOTAL,REC_VEG,REC_VEG_VERDE,COB_TOTAL_VERDE
+1,2024-06-06,Lastonar,Quemado,Pastoreo,23,22.66,19.41,19.7
+2,2024-06-06,Lastonar,Quemado,Pastoreo,17,17.42,16.92,16.51
+3,2024-06-06,Lastonar,Quemado,Excluido,30,32.01,24.49,22.95
+4,2024-06-06,Lastonar,Quemado,Excluido,27,26.58,14.1,14.32
+5,2024-06-06,Lastonar,Quemado,Pastoreo,18,26.13,20.27,13.96
+6,2024-06-06,Lastonar,Quemado,Pastoreo,16,15.9,12.61,12.68
+7,2024-06-06,Lastonar,Quemado,Excluido,30,30.59,26.6,26.08
+8,2024-06-06,Lastonar,Quemado,Excluido,12,11.62,9.59,9.9
+9,2024-06-06,Aulagar,Quemado,Excluido,25,43.12,35.01,20.29
+10,2024-06-06,Aulagar,Quemado,Excluido,20,26.29,20.15,15.32
+11,2024-06-06,Aulagar,Quemado,Pastoreo,23,22.65,22.65,23.0
+12,2024-06-06,Aulagar,Quemado,Pastoreo,10,12.37,12.17,9.83
+13,2024-06-06,Aulagar,Quemado,Excluido,29,28.9,24.85,24.93
+14,2024-06-06,Aulagar,Quemado,Excluido,14,14.09,10.67,10.6
+15,2024-06-06,Aulagar,Quemado,Pastoreo,7,15.39,14.62,6.64
+16,2024-06-06,Aulagar,Quemado,Pastoreo,20,22.98,10.21,8.88
+17,2024-06-06,Espartal,Quemado,Excluido,20,23.04,18.9,16.4
+18,2024-06-06,Espartal,Quemado,Excluido,46,45.7,39.5,39.75
+19,2024-06-06,Espartal,Quemado,Pastoreo,21,20.4,17.55,18.06
+20,2024-06-06,Espartal,Quemado,Pastoreo,14,14.34,13.84,13.51
+21,2024-06-06,Espartal,Quemado,Excluido,15,15.52,11.86,11.46
+22,2024-06-06,Espartal,Quemado,Pastoreo,20,20.69,18.68,18.05
+23,2024-06-06,Espartal,Quemado,Pastoreo,5,5.59,4.98,4.45
+24,2024-06-06,Espartal,Quemado,Excluido,30,56.13,34.38,18.37
+25,2024-06-06,Espartal,Quemado,Excluido,10,21.22,10.99,5.17
+26,2024-06-06,Espartal,Quemado,Pastoreo,5,26.47,21.16,3.99
+27,2024-06-06,Espartal,Quemado,Pastoreo,3,15.43,10.07,1.95
+28,2024-06-06,Aulagar,No quemado,Pastoreo,75,86.33,67.11,58.3
+29,2024-06-06,Aulagar,No quemado,Pastoreo,30,47.66,26.48,16.66
+30,2024-06-06,Espartal,No quemado,Pastoreo,55,54.15,26.06,26.46
+31,2024-06-06,Espartal,No quemado,Pastoreo,40,44.33,20.85,18.81
+32,2024-06-06,Lastonar,No quemado,Pastoreo,28,28.68,6.89,6.72
+33,2024-06-06,Lastonar,No quemado,Pastoreo,30,33.7,14.66,13.05
+34,2024-06-06,Espartal,No quemado,Pastoreo,85,109.0,57.91,45.15
+35,2024-06-06,Espartal,No quemado,Pastoreo,32,32.08,23.86,23.8
+36,2024-06-06,Lastonar,No quemado,Pastoreo,70,116.93,76.37,45.71
+37,2024-06-06,Lastonar,No quemado,Pastoreo,20,64.56,24.72,7.65
+38,2024-06-06,Lastonar,No quemado,Pastoreo,50,51.81,35.52,34.27
+39,2024-06-06,Lastonar,No quemado,Pastoreo,25,28.83,14.21,12.32
+40,2024-06-06,Aulagar,No quemado,Pastoreo,70,75.76,31.31,28.92
+41,2024-06-06,Aulagar,No quemado,Pastoreo,15,41.34,16.35,5.93
+42,2024-06-06,Aulagar,No quemado,Pastoreo,70,76.51,52.44,47.97
+43,2024-06-06,Aulagar,No quemado,Pastoreo,35,49.92,27.37,19.18
+44,2024-06-06,Espartal,No quemado,Pastoreo,88,88.18,48.07,47.97
+45,2024-06-06,Espartal,No quemado,Pastoreo,64,64.31,38.0,37.81
+46,2024-06-06,Espartal,Quemado,Excluido,7,8.39,6.54,5.45
+47,2024-06-06,Aulagar,Quemado,Pastoreo,12,12.91,12.91,12.0
+48,2024-06-06,Aulagar,Quemado,Pastoreo,10,9.57,9.37,9.79
+49,2024-06-06,Aulagar,Quemado,Excluido,25,24.88,18.37,18.45
+50,2024-06-06,Aulagar,Quemado,Excluido,15,15.43,12.18,11.84
+51,2024-06-06,Lastonar,Quemado,Excluido,15,16.9,15.03,13.34
+52,2024-06-06,Lastonar,Quemado,Excluido,18,17.93,16.27,16.33
+53,2024-06-06,Lastonar,Quemado,Pastoreo,10,12.39,10.48,8.45
+54,2024-06-06,Lastonar,Quemado,Pastoreo,30,37.89,24.54,19.42

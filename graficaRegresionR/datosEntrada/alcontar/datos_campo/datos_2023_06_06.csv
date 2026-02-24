@@ -1,0 +1,55 @@
+ID_QUADRAT,FECHA_MUESTREOS,TIPO_VEG,TRAT_QUEMA,TRAT_PASTO,COB_TOTAL,REC_VEG,REC_VEG_VERDE,COB_TOTAL_VERDE
+1,2023-06-06,Lastonar,Quemado,Pastoreo,1,1.11,1.01,0.9
+2,2023-06-06,Lastonar,Quemado,Pastoreo,1,1.26,1.1,0.87
+3,2023-06-06,Lastonar,Quemado,Excluido,17,16.64,16.64,17
+4,2023-06-06,Lastonar,Quemado,Excluido,5,4.99,4.55,4.55
+5,2023-06-06,Lastonar,Quemado,Pastoreo,2,2.15,1.61,1.49
+6,2023-06-06,Lastonar,Quemado,Pastoreo,4,4.25,3.35,3.15
+7,2023-06-06,Lastonar,Quemado,Excluido,5,5.27,5.27,5
+8,2023-06-06,Lastonar,Quemado,Excluido,2,1.62,1.62,2
+9,2023-06-06,Aulagar,Quemado,Excluido,8,7.48,7.48,8
+10,2023-06-06,Aulagar,Quemado,Excluido,7,10.07,9.01,6.26
+11,2023-06-06,Aulagar,Quemado,Pastoreo,1,1.35,1.35,1
+12,2023-06-06,Aulagar,Quemado,Pastoreo,1,0.69,0.69,1
+13,2023-06-06,Aulagar,Quemado,Excluido,6,6.18,5.33,5.17
+14,2023-06-06,Aulagar,Quemado,Excluido,4,4.08,4.08,4
+15,2023-06-06,Aulagar,Quemado,Pastoreo,1,1.38,1.04,0.75
+16,2023-06-06,Aulagar,Quemado,Pastoreo,6,6.02,2.62,2.61
+17,2023-06-06,Espartal,Quemado,Excluido,8,10.9,10.9,8
+18,2023-06-06,Espartal,Quemado,Excluido,8,9.97,9.97,8
+19,2023-06-06,Espartal,Quemado,Pastoreo,2,2.91,2.91,2
+20,2023-06-06,Espartal,Quemado,Pastoreo,1,0.51,0.51,1
+21,2023-06-06,Espartal,Quemado,Excluido,6,5.4,5.4,6
+22,2023-06-06,Espartal,Quemado,Pastoreo,1,0.5,0.5,1
+23,2023-06-06,Espartal,Quemado,Pastoreo,0,0.2,0.2,0
+24,2023-06-06,Espartal,Quemado,Excluido,7,7.91,7.91,7
+25,2023-06-06,Espartal,Quemado,Excluido,2,2.23,2.23,2
+26,2023-06-06,Espartal,Quemado,Pastoreo,1,0.26,0.26,1
+27,2023-06-06,Espartal,Quemado,Pastoreo,1,0.55,0.55,1
+28,2023-05-16,Aulagar,No quemado,Pastoreo,75,89.72,59.17,49.46
+29,2023-05-16,Aulagar,No quemado,Pastoreo,13,12.87,11.42,11.53
+30,2023-05-16,Espartal,No quemado,Pastoreo,36,35.95,35.45,35.49
+31,2023-05-16,Espartal,No quemado,Pastoreo,20,19.39,11.29,11.64
+32,2023-05-16,Lastonar,No quemado,Pastoreo,31,30.93,24.28,24.33
+33,2023-05-16,Lastonar,No quemado,Pastoreo,12,11.9,11.58,11.67
+34,2023-05-16,Espartal,No quemado,Pastoreo,70,69.62,57.04,57.35
+35,2023-05-16,Espartal,No quemado,Pastoreo,50,48.26,29.78,30.85
+36,2023-05-16,Lastonar,No quemado,Pastoreo,60,58.71,57.77,59.03
+37,2023-05-16,Lastonar,No quemado,Pastoreo,25,25.19,16.43,16.3
+38,2023-05-16,Lastonar,No quemado,Pastoreo,48,47.64,38.35,38.63
+39,2023-05-16,Lastonar,No quemado,Pastoreo,21,21.3,19,18.73
+40,2023-05-16,Aulagar,No quemado,Pastoreo,75,79.06,67.22,63.76
+41,2023-05-16,Aulagar,No quemado,Pastoreo,29,28.73,10.14,10.23
+42,2023-05-16,Aulagar,No quemado,Pastoreo,37,54.74,39.39,26.62
+43,2023-05-16,Aulagar,No quemado,Pastoreo,20,25.7,23.95,18.63
+44,2023-05-16,Espartal,No quemado,Pastoreo,64,64.14,64.14,64
+45,2023-05-16,Espartal,No quemado,Pastoreo,60,61.28,44.48,43.55
+46,2023-06-06,Espartal,Quemado,Excluido,3,3.19,3.19,3
+47,2023-06-06,Aulagar,Quemado,Pastoreo,1,0.95,0.95,1
+48,2023-06-06,Aulagar,Quemado,Pastoreo,1,1.63,1.63,1
+49,2023-06-06,Aulagar,Quemado,Excluido,6,5.85,5.15,5.28
+50,2023-06-06,Aulagar,Quemado,Excluido,3,4.32,4.32,3
+51,2023-06-06,Lastonar,Quemado,Excluido,2,2.05,2.05,2
+52,2023-06-06,Lastonar,Quemado,Excluido,6,8.15,8.15,6
+53,2023-06-06,Lastonar,Quemado,Pastoreo,1,2.5,2.5,1
+54,2023-06-06,Lastonar,Quemado,Pastoreo,30,31.8,18.52,17.47
