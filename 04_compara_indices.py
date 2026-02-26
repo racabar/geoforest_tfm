@@ -41,7 +41,7 @@ def load_indices_sample(base_path, indices_dict, n_samples=100000):
     return pd.concat(all_data, ignore_index=True)
 
 
-ruta_indices = Path("entradas/dalias/indices")
+ruta_indices = Path("entradas/indices")
 
 mapeo_indices = {
     "NDVI":   "250523_ndvi.tif",

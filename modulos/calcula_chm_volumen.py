@@ -183,7 +183,7 @@ if __name__ == "__main__":
     chm_calculado = '../salidas/dalias/250523/fitovolumen/B2-3/verde_COB_TOTAL/NDVI_chm.tif'
     volumen_calculado = '../salidas/dalias/250523/fitovolumen/B2-3/verde_COB_TOTAL/NDVI_vol.tif'
     quadrats = gpd.read_file('../entradas/infoVectorial.gpkg', layer='daliasQuadratsDespuesDesbroce')
-    fitovolumen_bd = pd.read_csv('../entradas/dalias/fitovolumen/fitovolumen_compas_250523.csv')
+    fitovolumen_bd = pd.read_csv('../entradas/fitovolumen/fitovolumen_compas_250523.csv')
 
     # Llamando a la función como estaba en tu script original
     calcula_chm(mds_tif, mdt_tif, chm_calculado, volumen_calculado, quadrats, fitovolumen_bd)

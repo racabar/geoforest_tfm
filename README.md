@@ -18,11 +18,11 @@
 
 3. He calculado el histograma de cada índice (03_histograma_indices.py).
 
-    - Están en: [entradas/dalias/indices/histogramas](entradas/dalias/indices/histogramas)
+    - Están en: [entradas/dalias/indices/histogramas](entradas/indices/histogramas)
 
 4. He hecho una comparación de todos los índices para todas las fechas (04_compara_indices.py)
 
-    - [Comparación de índices](entradas/dalias/indices/histogramas/comparacion_indices_todos.png)
+    - [Comparación de índices](entradas/indices/histogramas/comparacion_indices_todos.png)
 
 5. He hecho dos pruebas con Otsu usando (modulos.clasifica_imagen_otsu.py) con NDVI y con 2 y 3 clusters
 
@@ -33,7 +33,7 @@
 
 ```
 Matriz de correlación de Pearson
-         ndvi  gndvi   ndre  msavi  osavi  mcari2
+índice  ndvi   gndvi  ndre   msavi  osavi  mcari2
 ndvi    1.000  0.932  0.972  0.834  0.941   0.923
 gndvi   0.932  1.000  0.920  0.747  0.858   0.811
 ndre    0.972  0.920  1.000  0.802  0.908   0.892
