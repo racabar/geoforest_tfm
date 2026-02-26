@@ -1,6 +1,6 @@
 # TFM
 
-## Cálculo y comparativa de índices
+## 26/02/2026 Cálculo y comparativa de índices
 
 1. He calculado 6 índices usando spyndex y las bandas de la Micasense (p01_calcula_indices.py)
 
