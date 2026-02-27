@@ -7,8 +7,8 @@ from datetime import datetime
 # Define la ruta de tu proyecto
 ruta_base = Path(__file__).resolve().parent
 
-ruta_indices_bloques = ruta_base / "entradas" / "dalias" / "indices"
-ruta_indices_unidos = ruta_base / "entradas" / "dalias" / "indices"
+ruta_indices_bloques = ruta_base / "entradas" / "indices"
+ruta_indices_unidos = ruta_base / "entradas" / "indices"
 
 
 def une_indices(dir_entrada, dir_salida):

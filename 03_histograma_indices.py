@@ -6,7 +6,7 @@ hora_inicio = datetime.now()
 
 # Definir el directorio base
 # Se asume que el script se ejecuta desde la raíz del proyecto
-ruta_entrada = Path("entradas/indices/nuevos")
+ruta_entrada = Path("entradas/indices")
 
 
 def histograma_imagen(ruta):

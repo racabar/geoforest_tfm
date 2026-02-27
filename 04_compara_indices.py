@@ -44,12 +44,11 @@ def load_indices_sample(base_path, indices_dict, n_samples=100000):
 ruta_indices = Path("entradas/indices")
 
 mapeo_indices = {
-    "NDVI":   "250523_ndvi.tif",
-    "NDRE":   "250523_ndre.tif",
-    "GNDVI":  "250523_gndvi.tif",
-    "OSAVI":  "250523_osavi.tif",
-    "MSAVI":  "250523_msavi.tif",
-    "MCARI2": "250523_mcari2.tif",
+    "2023-06-14 TVI2": "230614_tvi2.tif",
+    "2023-10-10 TVI2": "231010_tvi2.tif",
+    "2024-05-16 TVI2": "240516_tvi2.tif",
+    "2025-01-23 TVI2": "250123_tvi2.tif",
+    "2025-05-23 TVI2": "250523_tvi2.tif",
 }
 
 # mapeo_indices = {
@@ -58,6 +57,11 @@ mapeo_indices = {
 #     "2024-05-16 NDVI": "240516_ndvi.tif",
 #     "2025-01-23 NDVI": "250123_ndvi.tif",
 #     "2025-05-23 NDVI": "250523_ndvi.tif",
+#     # "2023-06-14 TVI2": "230614_tvi2.tif",
+#     # "2023-10-10 TVI2": "231010_tvi2.tif",
+#     # "2024-05-16 TVI2": "240516_tvi2.tif",
+#     # "2025-01-23 TVI2": "250123_tvi2.tif",
+#     # "2025-05-23 TVI2": "250523_tvi2.tif",
 #     "2023-06-14 NDRE": "230614_ndre.tif",
 #     "2023-10-10 NDRE": "231010_ndre.tif",
 #     "2024-05-16 NDRE": "240516_ndre.tif",

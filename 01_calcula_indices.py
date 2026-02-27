@@ -6,10 +6,10 @@ hora_inicio = datetime.now()
 
 ruta_base = Path(Path(__file__).resolve().parent)
 
-ruta_bandas = ruta_base / "entradas" / "dalias" / "bandas"
-ruta_indices = ruta_base / "entradas" / "dalias" / "indices"
+ruta_bandas = ruta_base / "entradas" / "bandas"
+ruta_indices = ruta_base / "entradas" / "indices"
 
-indices_a_calcular = ["MCARI2", "GNDVI"]
+indices_a_calcular = ["TriVI"]
 
 
 def procesa_indices(ruta_bandas, ruta_indices, indices):
