@@ -5,6 +5,7 @@ from matplotlib.colors import ListedColormap
 from pathlib import Path
 from skimage.filters import threshold_multiotsu
 
+
 def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
     ruta_entrada = Path(ruta_entrada)
     ruta_salida = Path(ruta_salida)
@@ -39,7 +40,7 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
             # Calculo los umbrales de Otsu
             # threshold_multiotsu devuelve n_clases - 1 umbrales
             umbrales = threshold_multiotsu(datos_validos, classes=clases_otsu)
-            
+
             print(f"Umbrales de Otsu calculados: {umbrales}")
 
             # Clasificación usando np.digitize
@@ -52,7 +53,7 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
             mask_nodata = np.isnan(data)
             if nodata_val is not None:
                 mask_nodata = mask_nodata | (data == nodata_val)
-            
+
             if mask_nodata.any():
                 imagen_clasificada[mask_nodata] = 0
 
@@ -63,7 +64,7 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
                 compress='lzw',
                 nodata=None  # Eliminamos nodata para que sea 0 (valor válido)
             )
-            
+
             # Formateo los umbrales para la descripción
             umbrales_str = "_".join([f"{u:.3f}" for u in umbrales])
 
@@ -102,5 +103,6 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
 
 if __name__ == "__main__":
     ruta_entrada = "entradas/indices/230614_ndvi.tif"
-    ruta_salida = ""
-    clasifica_imagen_otsu()
+    ruta_salida = "salidas/segmentaciones/20260312_otsu./ndvi_otsu_3c.tif"
+
+    clasifica_imagen_otsu(ruta_entrada, ruta_salida, 1, 3)
