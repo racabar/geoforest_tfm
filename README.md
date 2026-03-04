@@ -48,3 +48,33 @@ mcari2  0.923  0.811  0.892  0.966  0.987   1.000
    - MSAVI: se diferencia 0,834 con NDVI y 0,747 con GNDVI
 
 8. He añadido GNDVI al stack de índices por añadir la banda del verde y parece que se ajusta mejor (ver QGIS)
+
+## 12/03/2026
+
+1. He calculado el índice TVI2 con la ecuación del artículo de Jorge
+
+$$
+TVI2 = 0.5*(120*(NIR-G)-200*(R-G))
+$$
+
+2. He hecho la comparación por fechas del [índice TVI2](entradas/indices/histogramas/comparaciones/indices/comparacion_indices_TVI2.png)
+
+3. He calculado la matriz de correlación de todos los índices incluyendno el TVI2.
+    - Si cojo como referencia el NDVI los índices que menos correlación tienen son
+        - msavi: 0.834
+        - tvi2:  0.870
+    - Si cojo como referencia TVI2 los índices de menos correlación son
+        - ndvi:  0.870
+        - gndvi: 0.766
+        - ndre:  0.841
+
+```
+         ndvi  gndvi   ndre  msavi  osavi  mcari2   tvi2
+ndvi    1.000  0.932  0.972  0.834  0.941   0.923  0.870
+gndvi   0.932  1.000  0.920  0.747  0.858   0.811  0.766
+ndre    0.972  0.920  1.000  0.802  0.908   0.892  0.841
+msavi   0.834  0.747  0.802  1.000  0.964   0.966  0.984
+osavi   0.941  0.858  0.908  0.964  1.000   0.987  0.972
+mcari2  0.923  0.811  0.892  0.966  0.987   1.000  0.985
+tvi2    0.870  0.766  0.841  0.984  0.972   0.985  1.000
+```

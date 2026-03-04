@@ -43,51 +43,51 @@ def load_indices_sample(base_path, indices_dict, n_samples=100000):
 
 ruta_indices = Path("entradas/indices")
 
-mapeo_indices = {
-    "2023-06-14 TVI2": "230614_tvi2.tif",
-    "2023-10-10 TVI2": "231010_tvi2.tif",
-    "2024-05-16 TVI2": "240516_tvi2.tif",
-    "2025-01-23 TVI2": "250123_tvi2.tif",
-    "2025-05-23 TVI2": "250523_tvi2.tif",
-}
-
 # mapeo_indices = {
-#     "2023-06-14 NDVI": "230614_ndvi.tif",
-#     "2023-10-10 NDVI": "231010_ndvi.tif",
-#     "2024-05-16 NDVI": "240516_ndvi.tif",
-#     "2025-01-23 NDVI": "250123_ndvi.tif",
-#     "2025-05-23 NDVI": "250523_ndvi.tif",
-#     # "2023-06-14 TVI2": "230614_tvi2.tif",
-#     # "2023-10-10 TVI2": "231010_tvi2.tif",
-#     # "2024-05-16 TVI2": "240516_tvi2.tif",
-#     # "2025-01-23 TVI2": "250123_tvi2.tif",
-#     # "2025-05-23 TVI2": "250523_tvi2.tif",
-#     "2023-06-14 NDRE": "230614_ndre.tif",
-#     "2023-10-10 NDRE": "231010_ndre.tif",
-#     "2024-05-16 NDRE": "240516_ndre.tif",
-#     "2025-01-23 NDRE": "250123_ndre.tif",
-#     "2025-05-23 NDRE": "250523_ndre.tif",
-#     "2023-06-14 GNDVI": "230614_gndvi.tif",
-#     "2023-10-10 GNDVI": "231010_gndvi.tif",
-#     "2024-05-16 GNDVI": "240516_gndvi.tif",
-#     "2025-01-23 GNDVI": "250123_gndvi.tif",
-#     "2025-05-23 GNDVI": "250523_gndvi.tif",
-#     "2023-06-14 OSAVI": "230614_osavi.tif",
-#     "2023-10-10 OSAVI": "231010_osavi.tif",
-#     "2024-05-16 OSAVI": "240516_osavi.tif",
-#     "2025-01-23 OSAVI": "250123_osavi.tif",
-#     "2025-05-23 OSAVI": "250523_osavi.tif",
-#     "2023-06-14 MSAVI": "230614_msavi.tif",
-#     "2023-10-10 MSAVI": "231010_msavi.tif",
-#     "2024-05-16 MSAVI": "240516_msavi.tif",
-#     "2025-01-23 MSAVI": "250123_msavi.tif",
-#     "2025-05-23 MSAVI": "250523_msavi.tif",
 #     "2023-06-14 MCARI2": "230614_mcari2.tif",
 #     "2023-10-10 MCARI2": "231010_mcari2.tif",
 #     "2024-05-16 MCARI2": "240516_mcari2.tif",
 #     "2025-01-23 MCARI2": "250123_mcari2.tif",
 #     "2025-05-23 MCARI2": "250523_mcari2.tif",
 # }
+
+mapeo_indices = {
+    "2023-06-14 NDVI": "230614_ndvi.tif",
+    # "2023-10-10 NDVI": "231010_ndvi.tif",
+    # "2024-05-16 NDVI": "240516_ndvi.tif",
+    # "2025-01-23 NDVI": "250123_ndvi.tif",
+    # "2025-05-23 NDVI": "250523_ndvi.tif",
+    # "2023-06-14 TVI2": "230614_tvi2.tif",
+    # "2023-10-10 TVI2": "231010_tvi2.tif",
+    # "2024-05-16 TVI2": "240516_tvi2.tif",
+    # "2025-01-23 TVI2": "250123_tvi2.tif",
+    # "2025-05-23 TVI2": "250523_tvi2.tif",
+    "2023-06-14 NDRE": "230614_ndre.tif",
+    # "2023-10-10 NDRE": "231010_ndre.tif",
+    # "2024-05-16 NDRE": "240516_ndre.tif",
+    # "2025-01-23 NDRE": "250123_ndre.tif",
+    # "2025-05-23 NDRE": "250523_ndre.tif",
+    "2023-06-14 GNDVI": "230614_gndvi.tif",
+    # "2023-10-10 GNDVI": "231010_gndvi.tif",
+    # "2024-05-16 GNDVI": "240516_gndvi.tif",
+    # "2025-01-23 GNDVI": "250123_gndvi.tif",
+    # "2025-05-23 GNDVI": "250523_gndvi.tif",
+    "2023-06-14 OSAVI": "230614_osavi.tif",
+    # "2023-10-10 OSAVI": "231010_osavi.tif",
+    # "2024-05-16 OSAVI": "240516_osavi.tif",
+    # "2025-01-23 OSAVI": "250123_osavi.tif",
+    # "2025-05-23 OSAVI": "250523_osavi.tif",
+    "2023-06-14 MSAVI": "230614_msavi.tif",
+    # "2023-10-10 MSAVI": "231010_msavi.tif",
+    # "2024-05-16 MSAVI": "240516_msavi.tif",
+    # "2025-01-23 MSAVI": "250123_msavi.tif",
+    # "2025-05-23 MSAVI": "250523_msavi.tif",
+    "2023-06-14 MCARI2": "230614_mcari2.tif",
+    # "2023-10-10 MCARI2": "231010_mcari2.tif",
+    # "2024-05-16 MCARI2": "240516_mcari2.tif",
+    # "2025-01-23 MCARI2": "250123_mcari2.tif",
+    # "2025-05-23 MCARI2": "250523_mcari2.tif",
+}
 
 # Cargo los datos
 df = load_indices_sample(ruta_indices, mapeo_indices)
@@ -142,7 +142,8 @@ if mapeo_indices:
     # Usamos la primera fecha encontrada para el nombre del archivo
     first_key = list(mapeo_indices.keys())[0]
     date_str = first_key.split(' ')[0]
-    output_filename = f"comparacion_indices_{date_str}.png"
+    # output_filename = f"comparacion_indices_{date_str}.png"
+    output_filename = f"comparacion_indices_230614.png"
     output_path = ruta_indices / "histogramas" / output_filename
     
     # Crear carpeta si no existe
