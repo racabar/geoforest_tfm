@@ -98,3 +98,9 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
 
     except Exception as e:
         print(f"Error en clasificación Otsu: {e}")
+
+
+if __name__ == "__main__":
+    ruta_entrada = "entradas/indices/230614_ndvi.tif"
+    ruta_salida = ""
+    clasifica_imagen_otsu()

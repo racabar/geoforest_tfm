@@ -1,5 +1,6 @@
 .idea/
 .Rproj.user/
+docs/
 *.tif
 *.aux
 *.las
