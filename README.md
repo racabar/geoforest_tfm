@@ -54,7 +54,7 @@ mcari2  0.923  0.811  0.892  0.966  0.987   1.000
 1. He calculado el índice TVI2 con la ecuación del artículo de Jorge
 
 $$
-TVI2 = 0.5*(120*(NIR-G)-200*(R-G))
+TVI2 = 0.5 \cdot (120*(NIR-G)-200 \cdot (R-G))
 $$
 
 2. He hecho la comparación por fechas del [índice TVI2](entradas/indices/histogramas/comparaciones/indices/comparacion_indices_TVI2.png)
