@@ -34,14 +34,14 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
             datos_validos = data[mascara_validos]
 
             if datos_validos.size == 0:
-                print("La imagen no tiene datos válidos para calcular Otsu.")
+                print(f"La imagen {ruta_entrada.name} no tiene datos válidos para calcular Otsu.")
                 return
 
             # Calculo los umbrales de Otsu
             # threshold_multiotsu devuelve n_clases - 1 umbrales
             umbrales = threshold_multiotsu(datos_validos, classes=clases_otsu)
 
-            print(f"Umbrales de Otsu calculados: {umbrales}")
+            print(f"Umbrales de Otsu calculados para {ruta_entrada.name}: {umbrales}")
 
             # Clasificación usando np.digitize
             # np.digitize devuelve los índices de los bins a los que pertenece cada valor
@@ -98,11 +98,32 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
             plt.show()
 
     except Exception as e:
-        print(f"Error en clasificación Otsu: {e}")
+        print(f"Error en clasificación Otsu para {ruta_entrada.name}: {e}")
 
 
 if __name__ == "__main__":
-    ruta_entrada = "entradas/indices/230614_ndvi.tif"
-    ruta_salida = "salidas/segmentaciones/20260312_otsu./ndvi_otsu_3c.tif"
+    # Usamos ruta absoluta para evitar ambigüedades
+    ruta_base = Path(__file__).resolve().parent.parent
+    ruta_indices = ruta_base / "entradas" / "indices"
+    indice = "tvi2"
 
-    clasifica_imagen_otsu(ruta_entrada, ruta_salida, 1, 3)
+    print(f"Buscando archivos en: {ruta_indices}")
+
+    # Me quedo solo con los archivos del índice que me interesa
+    archivos = list(ruta_indices.glob(f"*{indice}.tif"))
+
+    for archivo in archivos:
+        # Cojo la fecha del índice, qu eson los 6 primeros caracteres del archivo
+        fecha = archivo.name[:6]
+
+        # Construimos la ruta de salida
+        ruta_salida = ruta_base / f"salidas/segmentaciones/20260312_otsu_ndvi_tvi2/20{fecha}_{indice}_otsu_3c.tif"
+
+        print(f"Procesando: {archivo.name}...")
+
+        clasifica_imagen_otsu(
+            archivo,
+            ruta_salida,
+            1,
+            3
+        )
