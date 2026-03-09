@@ -102,12 +102,11 @@ def clasifica_imagen_otsu(ruta_entrada, ruta_salida, banda, clases_otsu=2):
 
 
 if __name__ == "__main__":
-    # Usamos ruta absoluta para evitar ambigüedades
+    # Cojo la ruta absoluta, que con la relativa estoy teniendo problemas
     ruta_base = Path(__file__).resolve().parent.parent
     ruta_indices = ruta_base / "entradas" / "indices"
-    indice = "tvi2"
 
-    print(f"Buscando archivos en: {ruta_indices}")
+    indice = "tvi2"
 
     # Me quedo solo con los archivos del índice que me interesa
     archivos = list(ruta_indices.glob(f"*{indice}.tif"))
@@ -116,7 +115,6 @@ if __name__ == "__main__":
         # Cojo la fecha del índice, qu eson los 6 primeros caracteres del archivo
         fecha = archivo.name[:6]
 
-        # Construimos la ruta de salida
         ruta_salida = ruta_base / f"salidas/segmentaciones/20260312_otsu_ndvi_tvi2/20{fecha}_{indice}_otsu_3c.tif"
 
         print(f"Procesando: {archivo.name}...")

@@ -78,3 +78,10 @@ osavi   0.941  0.858  0.908  0.964  1.000   0.987  0.972
 mcari2  0.923  0.811  0.892  0.966  0.987   1.000  0.985
 tvi2    0.870  0.766  0.841  0.984  0.972   0.985  1.000
 ```
+
+4. He hecho la clasificación con Otsu para NDVI y TVI2
+
+5. He reclasificado los resultados de Otsu en dos clases
+
+    - 1: vegetación
+    - 0: no vegetación
