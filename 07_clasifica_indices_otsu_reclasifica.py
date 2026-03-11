@@ -28,7 +28,7 @@ def reclasificar_otsu_a_binario(ruta_entrada_3c, ruta_salida_binaria):
 
 def procesar_indices_otsu(ruta_entrada_indices, ruta_salida_otsu, nombre_indice, num_clases, banda):
     # Me quedo con los archivos que coincidan con el índice que me interesa
-    archivos = list(ruta_entrada_indices.glob(f"*{nombre_indice}.tif"))
+    archivos = list(ruta_entrada_indices.glob(f"*_{nombre_indice}.tif"))
 
     if not archivos:
         print(f"No hay archivos del índice '{nombre_indice}.tif' en {ruta_entrada_indices}")
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     ruta_indices = ruta_base / "entradas" / "indices"
     directorio_salida = ruta_base / "salidas" / "segmentaciones" / "20260312_otsu_ndvi_tvi2"
 
-    indice = "tvi2"
+    indice = "ndvi"
     clases_otsu = 3
     banda_procesamiento = 1
 
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     if archivos_procesados_3c:
         print("\nIniciando fase de reclasificación binaria...")
         for ruta_3c in archivos_procesados_3c:
-            # Construimos el nombre binario reemplazando el final de la cadena de texto
+            # Nombre del archivo reclasificado
             nombre_binario = ruta_3c.name.replace(f"_{clases_otsu}c.tif", f"_{clases_otsu}c_binario.tif")
             ruta_binaria = ruta_3c.parent / nombre_binario
 
