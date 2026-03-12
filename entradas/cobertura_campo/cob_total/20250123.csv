@@ -1,0 +1,71 @@
+﻿TRAT_QUEMA,TRAT_PASTO,ID_QUADRAT,FECHA_MUESTREOS,COB_TOTAL,COB_MANTILLO,COB_DESNUDO,COBERTURA
+Quema_primavera_2024,Pastoreo,77,2025-01-29,1,55,44,9.9
+Quema_primavera_2024,Pastoreo,78,2025-01-29,3,67,30,38.34
+Quema_primavera_2024,No pastoreo,79,2025-01-29,6,29,65,19.24
+Quema_primavera_2024,Pastoreo,80,2025-01-29,6,68,26,60.44
+Quema_primavera_2024,No pastoreo,81,2025-01-29,1,20,79,103.97
+Quema_primavera_2024,No pastoreo,82,2025-01-29,8,67,25,36.13
+No_quemado,Pastoreo,84,2025-01-29,90,7,3,225.93
+No_quemado,Pastoreo,87,2025-01-29,92,5,3,116.95
+No_quemado,Pastoreo,88,2025-01-29,55,31,4,72.69
+Quema_otono_2023,Pastoreo,89,2025-01-29,6,4,90,42.52
+Quema_otono_2023,Pastoreo,90,2025-01-29,10,10,80,44.67
+Quema_otono_2023,No pastoreo,91,2025-01-29,10,15,75,73.58
+Quema_otono_2023,No pastoreo,92,2025-01-29,15,60,25,71.17
+Quema_otono_2023,No pastoreo,93,2025-01-29,30,4,66,17.24
+Quema_otono_2023,Pastoreo,94,2025-01-29,10,10,80,74.96
+Quema_otono_2023,No pastoreo,95,2025-01-29,20,20,60,68.03
+Quema_otono_2023,Pastoreo,97,2025-01-29,40,5,55,27.02
+Quema_otono_2023,No pastoreo,98,2025-01-29,25,15,60,25.09
+Quema_otono_2023,Pastoreo,99,2025-01-29,25,40,35,84.32
+Quema_otono_2023,Pastoreo,100,2025-01-29,35,10,55,35.33
+No_quemado,No pastoreo,102,2025-01-29,90,10,,175.06
+No_quemado,No pastoreo,103,2025-01-29,83,3,14,75.87
+No_quemado,Pastoreo,104,2025-01-29,92,2,6,74.46
+No_quemado,Pastoreo,105,2025-01-29,60,22,18,115.6
+No_quemado,No pastoreo,106,2025-01-29,55,20,25,51.22
+Quema_primavera_2024,Pastoreo,107,2025-01-29,5,10,85,19.59
+Quema_primavera_2024,No pastoreo,108,2025-01-29,3,57,40,33.25
+Quema_primavera_2024,No pastoreo,109,2025-01-29,1,17,82,43.52
+Quema_primavera_2024,Pastoreo,110,2025-01-29,5,45,50,20.55
+Quema_primavera_2024,No pastoreo,111,2025-01-29,4,23,73,63.54
+Quema_primavera_2024,Pastoreo,112,2025-01-29,8,15,77,72.28
+No_quemado,No pastoreo,113,2025-01-29,91,8,1,114.25
+No_quemado,Pastoreo,114,2025-01-29,90,5,5,334.24
+No_quemado,Pastoreo,114,2025-01-29,94,4,2,334.24
+No_quemado,No pastoreo,116,2025-01-29,92,8,,140.12
+No_quemado,Pastoreo,117,2025-01-29,70,15,15,110.31
+No_quemado,No pastoreo,118,2025-01-29,50,47,3,93.16
+Quema_primavera_2024,Pastoreo,119,2025-01-29,2,5,93,8.72
+Quema_primavera_2024,No pastoreo,120,2025-01-29,2,15,83,9.98
+Quema_primavera_2024,No pastoreo,121,2025-01-29,3,47,50,5.57
+Quema_primavera_2024,Pastoreo,122,2025-01-29,2,78,20,7.34
+Quema_primavera_2024,No pastoreo,123,2025-01-29,5,60,35,8.06
+Quema_primavera_2024,Pastoreo,124,2025-01-29,2,25,73,9.59
+Quema_otono_2023,No pastoreo,125,2025-01-29,22,5,73,17.03
+Quema_otono_2023,No pastoreo,127,2025-01-29,12,4,84,16.86
+Quema_otono_2023,Pastoreo,128,2025-01-29,12,3,85,18.51
+Quema_otono_2023,Pastoreo,129,2025-01-29,10,5,85,26.68
+Quema_otono_2023,No pastoreo,130,2025-01-29,15,5,80,33.75
+No_quemado,No pastoreo,131,2025-01-29,96,3,1,138.42
+No_quemado,Pastoreo,132,2025-01-29,55,38,8,48.97
+No_quemado,Pastoreo,134,2025-01-29,95,3,2,66.81
+No_quemado,No pastoreo,135,2025-01-29,72,25,3,112.56
+No_quemado,Pastoreo,136,2025-01-29,25,60,15,68.24
+Quema_primavera_2024,Pastoreo,137,2025-01-29,2,28,70,5.74
+Quema_primavera_2024,Pastoreo,138,2025-01-29,4,71,25,13.73
+Quema_primavera_2024,No pastoreo,139,2025-01-29,4,71,25,20.16
+Quema_primavera_2024,Pastoreo,140,2025-01-29,8,10,82,11.51
+Quema_primavera_2024,No pastoreo,141,2025-01-29,7,53,40,18.91
+Quema_primavera_2024,No pastoreo,142,2025-01-29,2,68,30,38.28
+Quema_otono_2023,No pastoreo,143,2025-01-29,30,7,63,51.62
+Quema_otono_2023,Pastoreo,144,2025-01-29,20,25,55,37.29
+Quema_otono_2023,No pastoreo,145,2025-01-29,27,3,70,88.78
+Quema_otono_2023,Pastoreo,146,2025-01-29,15,77,8,43.42
+Quema_otono_2023,No pastoreo,147,2025-01-29,20,10,70,16.71
+Quema_otono_2023,Pastoreo,148,2025-01-29,30,58,12,35.9
+No_quemado,No pastoreo,169,2025-01-29,65,15,20,106.1
+No_quemado,No pastoreo,170,2025-01-29,80,12,8,104.47
+Quema_primavera_2024,No pastoreo,171,2025-01-29,80,13,7,126.22
+No_quemado,No pastoreo,172,2025-01-29,94,5,1,128.17
+No_quemado,No pastoreo,173,2025-01-29,70,25,5,113.71

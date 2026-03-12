@@ -195,7 +195,7 @@ def regresion_por_categoria(df, archivo_figura, indice, col_x, col_y, unidades, 
 # Esto solo se usa si se ejecuta el script directamente a mano
 if __name__ == "__main__":
     # input_file = 'salidas/rasters_clasificados/20250120-1359_MCARI_reclasificado.csv'
-    # columna_x = 'cobertura'
+    # columna_x = 'cobertura_campo'
     # columna_y = 'COB_TOTAL'
     input_file = '../salidas/dalias/250523/B1-4/verde_COB_TOTAL/20250908-1243_EVI_sin_sombras_reclasificado.csv'
     columna_x = 'cobertura_calculada'
@@ -239,4 +239,4 @@ if __name__ == "__main__":
         quadrats_outliers = input('Introduce los quadrats a obviar separados por comas: ')
         df_unidos = df_unidos.query(f'ID_QUADRAT not in [{quadrats_outliers}]')  # Cobertura: 3, 54
 
-    regresion_por_categoria(df_unidos, input_file, nombre_indice, columna_x, columna_y, unidades_cobertura, 'cobertura', 'tratamientos_quema_primavera', 'salidas/alcontar/241120/cobertura/COB_TOTAL_verde_seco/metricas_regresion', regresion, mostrar_figura=True)
+    regresion_por_categoria(df_unidos, input_file, nombre_indice, columna_x, columna_y, unidades_cobertura, 'cobertura_campo', 'tratamientos_quema_primavera', 'salidas/alcontar/241120/cobertura_campo/COB_TOTAL_verde_seco/metricas_regresion', regresion, mostrar_figura=True)

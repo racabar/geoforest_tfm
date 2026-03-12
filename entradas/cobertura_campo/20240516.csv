@@ -1,0 +1,72 @@
+ID_QUADRAT,BLOQUE,TRAT_QUEMA,TRAT_PASTOREO,FECHA_MUESTREOS,REC_VEG_VERDE
+77,1,Quema_primavera_2024,Pastoreo,2024-05-22,100
+78,1,Quema_primavera_2024,Pastoreo,2024-05-22,54.15
+79,1,Quema_primavera_2024,No pastoreo,2024-05-22,100
+80,1,Quema_primavera_2024,Pastoreo,2024-05-22,24.67
+81,1,Quema_primavera_2024,No pastoreo,2024-05-22,100
+82,1,Quema_primavera_2024,No pastoreo,2024-05-22,61.12
+84,1,No_quemado,Pastoreo,2024-05-22,64.79
+87,1,No_quemado,Pastoreo,2024-05-22,100
+88,1,No_quemado,Pastoreo,2024-05-22,71.11
+89,1,Quema_otono_2023,Pastoreo,2024-05-22,2.06
+90,1,Quema_otono_2023,Pastoreo,2024-05-22,30.13
+91,1,Quema_otono_2023,No pastoreo,2024-05-22,8.93
+92,1,Quema_otono_2023,No pastoreo,2024-05-22,7.21
+93,1,Quema_otono_2023,No pastoreo,2024-05-22,11.61
+94,1,Quema_otono_2023,Pastoreo,2024-05-22,10.15
+95,4,Quema_otono_2023,No pastoreo,2024-05-22,11.66
+96,4,Quema_otono_2023,No pastoreo,2024-05-22,30.96
+97,4,Quema_otono_2023,Pastoreo,2024-05-22,12.65
+98,4,Quema_otono_2023,No pastoreo,2024-05-22,15.19
+99,4,Quema_otono_2023,Pastoreo,2024-05-22,27.69
+100,4,Quema_otono_2023,Pastoreo,2024-05-22,16.3
+102,4,No_quemado,No pastoreo,2024-05-22,33.63
+103,4,No_quemado,No pastoreo,2024-05-22,74.9100000000001
+104,4,No_quemado,Pastoreo,2024-05-22,100
+105,4,No_quemado,Pastoreo,2024-05-22,54.91
+106,4,No_quemado,No pastoreo,2024-05-22,52.87
+107,4,Quema_primavera_2024,Pastoreo,2024-05-22,60.39
+108,4,Quema_primavera_2024,No pastoreo,2024-05-22,95.57
+109,4,Quema_primavera_2024,No pastoreo,2024-05-22,19.67
+110,4,Quema_primavera_2024,Pastoreo,2024-05-22,64.78
+111,4,Quema_primavera_2024,No pastoreo,2024-05-22,67.91
+112,4,Quema_primavera_2024,Pastoreo,2024-05-22,65.3500000000001
+113,2,No_quemado,No pastoreo,2024-05-22,53.97
+114,2,No_quemado,Pastoreo,2024-05-22,91.5100000000002
+115,2,No_quemado,Pastoreo,2024-05-22,61.13
+116,2,No_quemado,No pastoreo,2024-05-22,84.19
+117,2,No_quemado,Pastoreo,2024-05-22,76.04
+118,2,No_quemado,No pastoreo,2024-05-22,41.63
+119,2,Quema_primavera_2024,Pastoreo,2024-05-22,71.32
+120,2,Quema_primavera_2024,No pastoreo,2024-05-22,96.15
+121,2,Quema_primavera_2024,No pastoreo,2024-05-22,33.66
+122,2,Quema_primavera_2024,Pastoreo,2024-05-22,44.18
+123,2,Quema_primavera_2024,No pastoreo,2024-05-22,27.28
+124,2,Quema_primavera_2024,Pastoreo,2024-05-22,27.4
+125,2,Quema_otono_2023,No pastoreo,2024-05-22,21.67
+127,2,Quema_otono_2023,No pastoreo,2024-05-22,3.95
+128,2,Quema_otono_2023,Pastoreo,2024-05-22,12
+129,2,Quema_otono_2023,Pastoreo,2024-05-22,17.02
+130,2,Quema_otono_2023,No pastoreo,2024-05-22,12.37
+131,3,No_quemado,No pastoreo,2024-05-22,100
+132,3,No_quemado,Pastoreo,2024-05-22,33.5
+134,3,No_quemado,Pastoreo,2024-05-22,100
+135,3,No_quemado,No pastoreo,2024-05-22,96.77
+136,3,No_quemado,Pastoreo,2024-05-22,20.16
+137,3,Quema_primavera_2024,Pastoreo,2024-05-22,100
+138,3,Quema_primavera_2024,Pastoreo,2024-05-22,43.53
+139,3,Quema_primavera_2024,No pastoreo,2024-05-22,55.68
+140,3,Quema_primavera_2024,No pastoreo,2024-05-22,45.83
+141,3,Quema_primavera_2024,No pastoreo,2024-05-22,46.9
+142,3,Quema_primavera_2024,Pastoreo,2024-05-22,55.62
+143,3,Quema_otono_2023,No pastoreo,2024-05-22,18.78
+144,3,Quema_otono_2023,Pastoreo,2024-05-22,7.36
+145,3,Quema_otono_2023,No pastoreo,2024-05-22,15.39
+146,3,Quema_otono_2023,Pastoreo,2024-05-22,9.72
+147,3,Quema_otono_2023,No pastoreo,2024-05-22,61.08
+148,3,Quema_otono_2023,Pastoreo,2024-05-22,30.14
+169,4,No_quemado,Pastoreo,2024-05-22,53.3
+170,1,No_quemado,No pastoreo,2024-05-22,100
+171,1,No_quemado,No pastoreo,2024-05-22,79.86
+172,1,No_quemado,No pastoreo,2024-05-22,100
+173,3,No_quemado,No pastoreo,2024-05-22,73.13
